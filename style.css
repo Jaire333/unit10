@@ -1,0 +1,24 @@
+.square{
+    background-color:yellow;
+}
+#moretext{
+    color:red;
+}
+.text{
+color:blue;
+}
+
+#moretext{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+#moretext{
+    font-size:170%;
+}
+
+
+.evenmoretext{
+    font-size:190%;
+    
+}
